@@ -1,0 +1,25 @@
+body {
+  background-image: url(https://www.solidbackgrounds.com/images/1920x1080/1920x1080-royal-yellow-solid-color-background.jpg);
+  background-size: contain;
+  background-position: center;
+  font-family: monospace;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 400px;
+  margin-left: 400px;
+  background-image: url(https://img.freepik.com/premium-vector/notebook-paper-background-lined-notebook-paper_322958-1549.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 530px;
+  border: 10px double black;
+  box-shadow: 0px 0px 15px 0px black;
+}
+
+#list:hover {
+  cursor: pointer;
+}
